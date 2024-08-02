@@ -1,9 +1,9 @@
 {
   "type": "micro",
-  "wake_word": "nabu",
+  "wake_word": "okay nabu",
   "author": "Kevin Ahrendt",
   "website": "https://www.kevinahrendt.com/",
-  "model": "nabu.tflite",
+  "model": "okay_nabu.tflite",
   "trained_languages": ["en"],
   "version": 2,
   "micro": {
